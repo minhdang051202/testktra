@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NMD-2021050190.props" />
+</Project>
